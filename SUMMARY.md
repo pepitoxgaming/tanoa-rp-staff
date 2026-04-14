@@ -2,6 +2,11 @@
 
 * [🏠 Accueil](README.md)
 
+## 🎓 Guide Staff
+* [📖 Introduction](guide-staff/introduction.md)
+* [⌨️ Commandes Essentielles](guide-staff/commandes-essentielles.md)
+* [🎮 Touches & Raccourcis](guide-staff/touches-raccourcis.md)
+
 ## 🌿 Drogues & Illégal
 * [💉 Héroïne](illegale/heroine.md)
 * [🌿 Weed](illegale/weed.md)
@@ -15,6 +20,10 @@
 * [💸 Blanchiment](points/blanchiment.md)
 * [🏦 Braquages](points/braquages.md)
 
+## 🔫 Armes & Munitions
+* [💊 Munitions](armes/munitions.md)
+* [🔫 Armes Addons](armes/armes-addon.md)
+
 ## 💻 Commandes Serveur
 * [📡 Antenna System](commandes/antenna.md)
 * [🛠️ Scripts Jaksam](commandes/jaksam.md)
@@ -27,6 +36,11 @@
 ## 🚗 Véhicules Gabz
 * [🚗 Civils](vehicules/civils.md)
 * [⭐ VIP / Import](vehicules/vip.md)
-* [🚓 Police](vehicules/police.md)
+* [🚓 Police Gabz](vehicules/police.md)
 * [🚑 EMS / Secours](vehicules/ems.md)
 * [💼 Entreprises & Taxis](vehicules/entreprises.md)
+
+## 💰 Prix Véhicules
+* [🚓 Police — Prix](vehicules/police-prix.md)
+* [🚑 LSMC — Prix](vehicules/lsmc-prix.md)
+* [🚛 DL Dépannage](vehicules/dl-depannage.md)
