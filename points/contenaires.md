@@ -1,33 +1,19 @@
 # 📦 Contenaires
 
 ## 🌿 Weed
-| Info | Détail |
-|------|--------|
-| 📍 Coordonnées | `/tp 1476.81384, -1924.75574, 71.685585` |
+Contenaire de récupération pour la weed.
 
 ---
 
 ## 🔫 Armes
-| # | Coordonnées |
-|---|------------|
-| 1 | `/tp 1125.5553, -3028.9121, 6.0192` |
-| 2 | `/tp 2460.7822, 1605.5956, 32.8836` |
-| 3 | `/tp -67.1209, 6405.4214, 31.6497` |
-| 4 | `/tp 914.6698, 3656.4741, 32.6195` |
-| 5 | `/tp 498.5327, -2128.9048, 6.0554` |
+Contenaires d'armes répartis sur la map (5 emplacements).
 
 ---
 
 ## 💊 Médical
-| Info | Détail |
-|------|--------|
-| 📍 Coordonnées | `/tp 608.3937, 2789.2961, 42.1919` |
-| 🔐 Code | `7584` |
+Contenaire médical.
 
 ---
 
 ## 💻 Hack
-| Info | Détail |
-|------|--------|
-| 📍 Coordonnées | `/tp 1704.5796, 6436.6689, 32.8546` |
-| 🔐 Code | `8475` |
+Contenaire hackable.

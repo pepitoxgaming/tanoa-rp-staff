@@ -5,7 +5,6 @@
 ## 🎓 Guide Staff
 * [📖 Introduction](guide-staff/introduction.md)
 * [⌨️ Commandes Essentielles](guide-staff/commandes-essentielles.md)
-* [🎮 Touches & Raccourcis](guide-staff/touches-raccourcis.md)
 
 ## 🌿 Drogues & Illégal
 * [💉 Héroïne](illegale/heroine.md)
@@ -32,6 +31,23 @@
 * [🎰 Casino & Housing](commandes/casino-housing.md)
 * [🎒 Inventaire](commandes/inventaire.md)
 * [🏘️ Gangs](commandes/gangs.md)
+
+## 📦 Scripts du Serveur
+* [🎒 Quasar Inventory](scripts/qs-inventory.md)
+* [🛒 Shop Creator](scripts/qs-shopcreator.md)
+* [⚒️ Craft Creator](scripts/qs-craftcreator.md)
+* [🔑 Vehicle Keys](scripts/qs-vehiclekeys.md)
+* [📱 LB Phone](scripts/lb-phone.md)
+* [💊 LB Tablet](scripts/lb-tablet.md)
+* [🚗 JG Advanced Garages](scripts/jg-garages.md)
+* [🏪 JG Dealership](scripts/jg-dealership.md)
+* [🏘️ Electus Gangs](scripts/electus-gangs.md)
+* [🎨 Electus Graffiti](scripts/electus-graffiti.md)
+* [🏠 QS Housing](scripts/qs-housing.md)
+* [🎰 QS Casino](scripts/qs-casino.md)
+* [🔫 Wasabi Police](scripts/wasabi-police.md)
+* [🚑 Wasabi Ambulance](scripts/wasabi-ambulance.md)
+* [🏦 okok Banking](scripts/okok-banking.md)
 
 ## 🚗 Véhicules Gabz
 * [🚗 Civils](vehicules/civils.md)

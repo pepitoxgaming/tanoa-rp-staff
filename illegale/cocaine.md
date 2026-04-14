@@ -1,17 +1,10 @@
 # ❄️ Cocaïne
 
-## 🏭 Laboratoire
-| Info | Détail |
-|------|--------|
-| 📍 Coordonnées | `/tp -341.862, -2444.321, 6.00` |
-
----
-
 ## 🌾 Récolte
-| Ressource | Commande TP |
-|-----------|------------|
-| Feuilles de coke | `/tp 2285.02, 2308.43, 62.57` |
-| Acide sulfurique | `/tp 2519.55, 2587.52, 36.94` |
+| Ressource |
+|-----------|
+| Feuilles de coke |
+| Acide sulfurique |
 
 ---
 
