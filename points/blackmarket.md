@@ -1,13 +1,17 @@
 # 🚐 Black Market Van
 
-> Emplacements où le van du marché noir peut apparaître.
+{% hint style="info" %}
+Le van du marché noir est un **véhicule itinérant** qui change de position automatiquement toutes les quelques minutes sur la map.
+{% endhint %}
 
-| # | Coordonnées |
-|---|------------|
-| 1 | `/tp 1492.8495, 3567.3030, 34.8913` |
-| 2 | `/tp -77.4377, 6365.9082, 31.2282` |
-| 3 | `/tp 135.7803, 6648.6162, 31.3403` |
-| 4 | `/tp -1134.9915, 2692.0491, 18.5390` |
-| 5 | `/tp -160.6344, 159.4823, 77.2394` |
-| 6 | `/tp 251.0999, -1969.7654, 21.6825` |
-| 7 | `/tp 151.9219, -1657.9490, 29.0301` |
+## ℹ️ Informations
+
+- 🚐 C'est un **van qui se déplace** automatiquement sur plusieurs zones de la map
+- ⏱️ Il **change de position** régulièrement — inutile de mémoriser un emplacement fixe
+- 🗺️ Il apparaît dans des **zones isolées** (zones industrielles, périphérie, zones rurales)
+- 👀 Les joueurs doivent le **chercher activement** sur la map
+- ⚠️ Sa présence est un **événement dynamique** — surveille les infos en jeu
+
+{% hint style="warning" %}
+En tant que staff, si un joueur signale un problème avec le black market van, utilise `/tp` pour te rendre dessus et vérifier.
+{% endhint %}

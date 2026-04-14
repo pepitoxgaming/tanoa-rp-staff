@@ -1,24 +1,15 @@
 # 💉 Héroïne
 
-## 🏭 Laboratoire
-| Info | Détail |
-|------|--------|
-| 📍 Coordonnées | `/tp 892.2587, -960.8538, 38.18458` |
-| 🔐 Code | `1874` |
-
----
-
 ## 🌾 Récolte
-| Ressource | Commande TP |
-|-----------|------------|
-| `heroin_anhydride` | `/tp 1228.63, -1487.67, 34.03` |
-| `hydrochloricacid` | `/tp -52.75, 6170.15, 29.88` |
+| Ressource |
+|-----------|
+| `heroin_anhydride` |
+| `hydrochloricacid` |
 
 ### 🛒 Achat Morphine
-| Info | Détail |
-|------|--------|
-| 📍 Coordonnées | `/tp 373.26, -1441.69, 28.43` |
-| 🧪 Item | `consumable_med_morphine` |
+| 🧪 Item |
+|---------|
+| `consumable_med_morphine` |
 
 ---
 
