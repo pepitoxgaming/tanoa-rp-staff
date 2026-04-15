@@ -34,6 +34,7 @@
 
 ## 📦 Scripts du Serveur
 * [🎒 Quasar Inventory](scripts/qs-inventory.md)
+* [🚗 Coffres & Poids Véhicules](scripts/qs-inventory-coffres.md)
 * [🛒 Shop Creator](scripts/qs-shopcreator.md)
 * [⚒️ Craft Creator](scripts/qs-craftcreator.md)
 * [🔑 Vehicle Keys](scripts/qs-vehiclekeys.md)
