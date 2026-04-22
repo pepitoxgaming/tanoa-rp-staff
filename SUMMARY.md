@@ -49,6 +49,7 @@
 * [🔫 Wasabi Police](scripts/wasabi-police.md)
 * [🚑 Wasabi Ambulance](scripts/wasabi-ambulance.md)
 * [🏦 okok Banking](scripts/okok-banking.md)
+* [🏗️ QS City Builder](scripts/qs-citybuilder.md)
 
 ## 🚗 Véhicules Gabz
 * [🚗 Civils](vehicules/civils.md)
