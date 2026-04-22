@@ -69,6 +69,31 @@ Ces commandes sont les plus utilisées au quotidien par le staff. Apprends-les p
 
 ---
 
+## 🏗️ City Builder
+
+| Commande | Description |
+|----------|-------------|
+| `/citybuilder` | Ouvrir le menu de création du jeu de gestion de ville |
+| `/citybuilderfurniture` | Ouvrir le menu de création de mobilier en jeu |
+
+{% hint style="info" %}
+💡 Les commandes City Builder permettent au staff de gérer et construire des zones de la ville directement en jeu.
+{% endhint %}
+
+---
+
+## 🛒 Boutiques
+
+| Commande | Description |
+|----------|-------------|
+| `/staffshop` | Ouvrir l'interface de gestion de boutique |
+
+{% hint style="success" %}
+💡 `/staffshop` permet de créer, modifier ou supprimer des boutiques en jeu sans toucher aux fichiers de config.
+{% endhint %}
+
+---
+
 ## 🔧 Divers
 
 | Commande | Description |
