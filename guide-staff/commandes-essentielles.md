@@ -51,11 +51,21 @@ Ces commandes sont les plus utilisées au quotidien par le staff. Apprends-les p
 
 | Commande | Description | Exemple |
 |----------|-------------|---------|
-| `/givemoney [id] [montant]` | Donner de l'argent liquide | `/givemoney 5 1000` |
-| `/setmoney [id] [montant]` | Définir l'argent d'un joueur | `/setmoney 5 5000` |
+| `/givemoney [id] [montant]` | Donner de l'argent liquide (cash sur soi) | `/givemoney 5 1000` |
+| `/setmoney [id] [montant]` | Définir l'argent liquide d'un joueur | `/setmoney 5 5000` |
+| `/giveaccountmoney [id] [compte] [montant]` | Donner de l'argent sur un compte | `/giveaccountmoney 5 bank 1000` |
 | `/giveitem [id] [item] [qté]` | Donner un item | `/giveitem 5 water 2` |
 | `/clearinv [id]` | Vider l'inventaire | `/clearinv 5` |
 | `/openinventorytarget [id]` | Voir l'inventaire d'un joueur | `/openinventorytarget 5` |
+
+{% hint style="info" %}
+💳 **/giveaccountmoney** — Les comptes disponibles :
+- `bank` → Compte bancaire du joueur 🏦
+- `money` → Argent liquide sur lui 💵
+- `black_money` → Argent sale 🖤
+
+**Exemple :** `/giveaccountmoney 5 bank 5000` → Ajoute 5 000$ sur le compte bancaire du joueur ID 5
+{% endhint %}
 
 ---
 
